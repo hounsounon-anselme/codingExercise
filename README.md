@@ -28,7 +28,7 @@ Before running the project, make sure you have the following installed on your m
     composer install
     ```
 
-3. Install front-end dependencies (if applicable):
+3. Install front-end dependencies:
 
     ```bash
     npm install
