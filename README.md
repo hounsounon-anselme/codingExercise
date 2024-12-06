@@ -40,13 +40,13 @@ Before running the project, make sure you have the following installed on your m
     cp .env.example .env
     ```
 
-5. Generate the application key (for Laravel projects):
+5. Generate the application key:
 
     ```bash
     php artisan key:generate
     ```
 
-6. Set up the database by running the migrations (if applicable):
+6. Set up the database by running the migrations :
 
     ```bash
     php artisan migrate
@@ -68,6 +68,4 @@ To run the project locally, use the built-in Laravel server (or equivalent for y
 php artisan serve
 ```
 
-The project should now be available at `bashhttp://localhost:8000`.
-
-### [Additional instructions if applicable, such as how to run tests, build assets, etc.]
+The project should now be available at `http://localhost:8000`.
