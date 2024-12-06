@@ -19,7 +19,7 @@ Before running the project, make sure you have the following installed on your m
 
     ```bash
     git clone https://github.com/hounsounon-anselme/codingExercise.git
-    cd project-name
+    cd codingExercise
     ```
 
 2. Install PHP dependencies using Composer:
