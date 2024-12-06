@@ -62,7 +62,7 @@ php artisan db:seed
 
 ### Local Development Server
 
-To run the project locally, use the built-in Laravel server (or equivalent for your project):
+To run the project locally, use the built-in Laravel server:
 
 ```bash
 php artisan serve
