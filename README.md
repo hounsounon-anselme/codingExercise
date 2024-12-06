@@ -3,7 +3,7 @@
 ## Description
 
 This project is an exercise designed to practice
-The project is built with [technologies used, e.g., Laravel, Livewire, etc.].
+The project is built with [technologies used:Laravel, Livewire, etc.].
 
 ## Prerequisites
 
